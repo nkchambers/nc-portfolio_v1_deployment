@@ -54,83 +54,82 @@ export const Skills = () => {
                             <h2 className="p-3">
                                 Skills
                             </h2>
-                            {/* <p>Throughout my coding boodcamp I was exposed to varias technologies and learned how they worked together to create a full-stack web application. Since graduating and working on projects I've had the opportunity to expand that knowledge, gain new skills and improve on the core competencies I learned in the bootcamp.</p> */}
-                            <Carousel responsive={responsive} infinite={true} className="skill-slider align-items-center">
+                            <Carousel responsive={responsive} infinite={true} className="skill-slider align-items-center justify-center">
                                 <div className="item">
-                                    <img src={HTML} className="p-3" alt=""></img>
+                                    <img src={HTML} alt=""></img>
                                     <h5>Web Development</h5>
                                 </div>
-                                <div className="item mt-3">
-                                    <img src={BackendDev} className="bg-white p-3" alt=""></img>
-                                    <h5 className="pt-1">Back-end Develpment</h5>
+                                <div className="item">
+                                    <img src={BackendDev} className="bg-white" alt=""></img>
+                                    <h5>Back-end Develpment</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={CSS} className="p-3" alt=""></img>
+                                    <img src={CSS} alt=""></img>
                                     <h5>Front-end Development</h5>
                                 </div>
-                                <div className="item mt-3">
-                                    <img src={fullStack} className="p-1" alt=""></img>
-                                    <h5 className="pt-1">Full-stack Development</h5>
+                                <div className="item">
+                                    <img src={fullStack} alt=""></img>
+                                    <h5>Full-stack Development</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={WebDesign} className="p-3" alt=""></img>
-                                    <h5 className="pt-1">Web Design</h5>
+                                    <img src={WebDesign} alt=""></img>
+                                    <h5>Web Design</h5>
                                 </div>
-                                <div className="item mt-3">
-                                    <img src={Python} className="p-1" alt=""></img>
-                                    <h5 className="pt-2">Python</h5>
+                                <div className="item">
+                                    <img src={Python} alt=""></img>
+                                    <h5>Python</h5>
                                 </div>
                                 <div className="item">
                                     <img src={React} alt=""></img>
                                     <h5>React.js</h5>
                                 </div>
-                                <div className="item mt-5">
-                                    <img src={AWS} className="bg-white p-3" alt=""></img>
-                                    <h5 className="pt-4">AWS EC2</h5>
+                                <div className="item">
+                                    <img src={AWS} className="bg-white" alt=""></img>
+                                    <h5 className="">AWS EC2</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={Csharp} className="p-2" alt=""></img>
-                                    <h5 className="">C#</h5>
+                                    <img src={Csharp} alt=""></img>
+                                    <h5>C#</h5>
                                 </div>
-                                <div className="item mt-4">
+                                <div className="item">
                                     <img src={Bootstrap} alt=""></img>
-                                    <h5 className="pt-4">Frontend Frameworks</h5>
+                                    <h5>Frontend Frameworks</h5>
                                 </div>
-                                <div className="item mt-3">
+                                <div className="item">
                                     <img src={MySQL} alt=""></img>
-                                    <h5 className="pt-1">MySQL</h5>
+                                    <h5>MySQL</h5>
                                 </div>
-                                <div className="item mt-2">
+                                <div className="item">
                                     <img src={mongoDB1} alt=""></img>
                                     <h5 className="pt-1">Mongo DB</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={nodejs} className="p-3" alt=""></img>
+                                    <img src={nodejs} alt=""></img>
                                     <h5>Node.js</h5>
                                 </div>
-                                <div className="item mt-2">
-                                    <img src={expressIcon} className="p-1" alt=""></img>
-                                    <h5 className="pt-1">Express.js</h5>
+                                <div className="item">
+                                    <img src={expressIcon} className="" alt=""></img>
+                                    <h5>Express.js</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={flask} className="bg-white p-4" alt=""></img>
+                                    <img src={flask} className="bg-white" alt=""></img>
                                     <h5>Flask</h5>
                                 </div>
-                                <div className="item mt-3">
+                                <div className="item">
                                     <img src={Javascript} alt=""></img>
-                                    <h5 className="pt-1">JavaScript</h5>
+                                    <h5>JavaScript</h5>
                                 </div>
-                                <div className="item mt-3">
+                                <div className="item">
                                     <img src={softwareDev} alt=""></img>
-                                    <h5>Software Development</h5>
+                                    <h5 className="">Software Development</h5>
                                 </div>
-                                <div className="item mt-5">
+                                <div className="item">
                                     <img src={NET} alt=""></img>
-                                    <h5 className="pt-3">ASP.NET</h5>
+                                    <h5>ASP.NET</h5>
                                 </div>
-                                <div className="item mt-2">
+                                <div className="item">
                                     <img src={github} alt=""></img>
-                                    <h5 className="pt-1">GitHub</h5>
+                                    <h5>GitHub</h5>
                                 </div>
                             </Carousel>
                         </div>

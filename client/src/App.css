@@ -385,14 +385,16 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .skill-slider {
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
   position: relative;
 }
 
 .skill-slider .item img {
-  width: 50%;
+  width: 130px;
+  height: 130px;
   margin: 0 auto 15px auto;
+  padding: 5px;
 }
 
 .background-image-left {

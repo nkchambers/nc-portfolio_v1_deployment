@@ -66,8 +66,8 @@ export const Banner = () => {
                                     I'm set out on a mission to help companies and organizations utilize technology to their advantage. 
                                     Whether that be to improve customer retention through better website user-experience or make a larger impact on those they serve with a resource mobile app, I'm ready to start building to infinity and beyond!</p>
                                 <p>
-                                    I'm a former catering lead turned full-stack developer. In my 10+ years of working in food service I learned how to cater to clients' individual needs with unwaivering attention to detail. 
-                                    As long as the project needs are within my skill set, I'll approach development in a similar fasion and will provide that same high quality level service to my clients.
+                                    I'm a former catering lead turned full-stack developer. In my 10+ years of working in food service I learned how to cater to clients' individual needs with unwavering attention to detail. 
+                                    As long as the project needs are within my skill set, I'll approach development in a similar fashion and will provide that same high quality level service to my clients.
                                 </p>
                                 <a href="#connect"><button>Let's connect<ArrowRightCircle size={25} /></button></a>
                             </div>}
