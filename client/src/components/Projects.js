@@ -15,7 +15,7 @@ export const Projects = () => {
             title: "CNC AUTO",
             description: "Car Rental and Sales",
             img: LightsHome1,
-            imgURL: "http://35.91.128.202//",
+            imgURL: "http://www.cncauto.co",
             gitHubURL: "https://github.com/nkchambers/cncauto_v2_deployment"
         },
         // {
