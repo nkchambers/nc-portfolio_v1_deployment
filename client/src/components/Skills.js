@@ -93,7 +93,7 @@ export const Skills = () => {
                                 </div>
                                 <div className="item">
                                     <img src={Bootstrap} alt=""></img>
-                                    <h5>Frontend Frameworks</h5>
+                                    <h5>Bootstrap (Framework)</h5>
                                 </div>
                                 <div className="item">
                                     <img src={MySQL} alt=""></img>
